@@ -12,7 +12,7 @@ https://api.instagram.com/v1/users/self/?access_token=xxxxxxxxx
 ## get location info
 https://api.instagram.com/v1/locations/search?lat=24.828034&lng=121.772630&access_token=xxxxxxxx
 
-­­## get location id
+## get location id
 https://api.instagram.com/oauth/authorize/?client_id=xxxxxxxx&redirect_uri=http://www.xxx.com.tw&response_type=code&scope=basic+comments+follower_list+likes+relationships+public_content
 
 ### PHP
